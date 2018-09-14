@@ -6,17 +6,21 @@
 
 ### Outline
 
-* What is the Difference between DS, AI, ML, DL and RL?
-* Sub-domains of DS (NLP, Analytics, CV)
-* Should I choose this career path but i'm from (XYZ background)?
-* What are the roles present in DS domain?
-* What are the skill-sets needed?
-* Skill-set and role allignment
-* What is gap in demand and supply when its come to data science related jobs.
-* Schedule for acquire the given skill-set
-* Certification is needed or not?
+* Introduction to Data Science
+* Difference among 
+    * Artificial Intelligience (AI)
+    * Machine Learning (ML)
+    * Deep Learning (DL)
+    * Reinforcement Learning (RL)
+* Sub-domains in Data Science
+* Should I choose Data Science as career path - but...!?
+* Job roles in Data Science domain
+* Much needed ingridient: skill-set 
+* Let's align: skill-set and job roles
+* Acquire skill-set: Schedule and Projects
+* Dilemma: Certification or Projects
+* Tips
 * All learning resources
-
 
 ------
 
