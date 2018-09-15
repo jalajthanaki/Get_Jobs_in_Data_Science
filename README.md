@@ -14,20 +14,21 @@ This repository is providing the Introduction and Career Guide for Data Science 
 ### Outline
 
 * Introduction to Data Science
-* Difference among
+* Introduction to AI,ML, DL and RL
+* Difference among 
     * Artificial Intelligience (AI)
     * Machine Learning (ML)
     * Deep Learning (DL)
     * Reinforcement Learning (RL)
 * Sub-domains in Data Science
 * Should I choose Data Science as career path - but...!?
-* Job roles in Data Science domain
-* Much needed ingridient: skill-set
+* Much needed ingredient: skill-set 
 * Let's align: skill-set and job roles
 * Acquire skill-set: Schedule and Projects
 * Dilemma: Certification or Projects
 * Tips
 * All learning resources
+
 
 ------
 
