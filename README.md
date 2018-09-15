@@ -43,5 +43,5 @@ Thank you WinMLDS - Mumbai for organising this workshop on 16th Sept, 2018.
 
 
 <img src="https://raw.githubusercontent.com/jalajthanaki/Get_Jobs_in_Data_Science/master/imgs/logo2.jpg" 
-align="middle" alt="Image_0" style="width:50%;height:auto;align:center;">
+align="middle" alt="LOGO2" style="width:30%;height:30%;align:center;">
 
