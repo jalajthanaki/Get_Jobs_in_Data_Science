@@ -1,6 +1,13 @@
-# How to get the job in Data Science domain?
+# Head First - Data Science
 
 This repository is providing the Introduction and Career Guide for Data Science enthusiasts
+
+-----
+
+### Topics
+
+1. Introduction to DS
+2. How to get the job in Data Science domain?
 
 --------
 
