@@ -27,7 +27,6 @@ wheels/
 *.egg
 MANIFEST
 .idea/
-Backup.ipynb
 
 
 # PyInstaller
