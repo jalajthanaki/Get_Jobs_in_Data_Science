@@ -41,3 +41,7 @@ This repository is providing the Introduction and Career Guide for Data Science 
 
 Thank you WinMLDS - Mumbai for organising this workshop on 16th Sept, 2018.
 
+
+<img src="https://raw.githubusercontent.com/jalajthanaki/Get_Jobs_in_Data_Science/master/imgs/logo2.jpg" 
+align="middle" alt="Image_0" style="width:50%;height:auto;align:center;">
+
