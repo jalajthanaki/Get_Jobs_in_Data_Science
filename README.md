@@ -25,8 +25,8 @@ This repository is providing the Introduction and Career Guide for Data Science 
 ------
 
 ### Usage
-`Get_the_jobs_in_DS.ipynb`: Contains the detail content of the outline
-`All_Learning_Resources`: This file contains the list of all learning resources which help Data Science enthusiasts in their learning journey
+* `Get_the_jobs_in_DS.ipynb`: This file contains the detail content of the outline
+* `All_Learning_Resources`: This file contains the list of all learning resources which help Data Science enthusiasts in their learning journey
 
 ------
 
