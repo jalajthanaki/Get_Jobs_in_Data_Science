@@ -36,7 +36,7 @@ This repository is providing the Introduction and Career Guide for Data Science 
 
 * `All_Learning_Resources`: This file contains the list of all learning resources which help Data Science enthusiasts in their learning journey
 
-* Presentation is [here](http://nbviewer.jupyter.org/github/jalajthanaki/Get_Jobs_in_Data_Science/blob/master/Get_the_jobs_in_DS.ipynb)
+* Presentation is [here](http://nbviewer.jupyter.org/github/jalajthanaki/Get_Jobs_in_Data_Science/blob/master/Get_the_jobs_in_DS.ipynb?flush_cache=True)
 
 ------
 
